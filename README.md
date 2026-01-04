@@ -22,5 +22,4 @@ StudySync is a modern, responsive educational landing page designed to promote s
 
 ---
 
-## 📂 Project Structure
 
